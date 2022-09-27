@@ -1,10 +1,4 @@
-# TEAM DIVINE  
-
-HACKNAGPUR PROJECT  
-
-# TO SEE THE WORKING OF THIS IN THE WEBSITE     
-
-https://divine-hacknagpur.netlify.app/    
+#DIVINE / E-SAVIOR
 
 
 # 🔨Languages and Tools🔨  
